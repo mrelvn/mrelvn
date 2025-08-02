@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Farzan Ahmad (MrElvn) 
+## 👋 Hey, I'm Farzan Ahmad (mrelvn) 
 
 I'm a passionate *Full-Stack Web Developer* currently learning and building real-world applications using the *MERN Stack*.
 
@@ -34,4 +34,4 @@ I focus on creating clean, responsive, and functional websites and web apps with
 🧠 Currently Building: Fullstack Projects + Learning DSA
 
 
-## "Coding is not just a skill, it's a weapon. I’m sharpening mine daily." — MrElvn
+## "Coding is not just a skill, it's a weapon. I’m sharpening mine daily." — mrelvn
