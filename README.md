@@ -28,7 +28,7 @@ I focus on creating clean, responsive, and functional websites and web apps with
 
 
 ## 📫 Let's Connect
-🔗 Portfolio: [Coming Soon]
+🔗 Portfolio: https://farzanahmad.dev
 📧 Email: farzan.mrelvn@gmail.com
 💼 LinkedIn: linkedin.com/in/farzan-mrelvn
 🧠 Currently Building: Fullstack Projects + Learning DSA
