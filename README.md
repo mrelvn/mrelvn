@@ -1,37 +1,29 @@
-## 👋 Hey, I'm Farzan Ahmad (mrelvn) 
+# Hi, I'm Farzan Ahmad 👋
+**Aspiring QA Engineer | Manual & API Testing Specialist**
 
-I'm a passionate *Full-Stack Web Developer* currently learning and building real-world applications using the *MERN Stack*.
+I am a final-year B.Tech Computer Science student with a strong focus on Software Quality Assurance. I specialize in breaking applications to make them better and documenting the process through professional STLC artifacts.
 
-I focus on creating clean, responsive, and functional websites and web apps with attention to detail and performance.
+---
 
+### 🛠️ Technical Skill Set
+- **Manual Testing:** Test Plan, Test Cases, Bug Reporting, RTM, SDLC (Agile/Scrum).
+- **API Testing:** Postman (Collections, Environment Variables, Validations).
+- **Web Technologies:** HTML, CSS, JavaScript (Basics).
+- **Upcoming Skills:** Playwright with TypeScript (Automation).
+- **Tools:** Git, GitHub, Jira/Trello.
 
-## 👨‍💻 About Me
-- 🛠 Currently working on MERN stack projects
-- 📚 Learning DSA and preparing for job interviews
-- 🎯 Goal: Land a high-paying fullstack developer role
-- 🚀 Side Hustle: Building digital products and tools
+### 📁 Featured Projects
+#### [Shady Meadows B&B - Full Stack QA Project](https://github.com/mrelvn/Shady-Meadows-QA-Project)
+* **Context:** End-to-end testing of a boutique hotel web application.
+* **Deliverables:** Created FRS, Test Plan, 60+ Manual Test Cases, and API Test Collections.
+* **Impact:** Identified critical bugs in the booking logic and validated RESTful endpoints.
 
+### 📈 Current Learning Path
+- Currently mastering **Playwright with TypeScript** to transition from Manual to Automation Testing.
+- Building a portfolio of automated regression suites for e-commerce platforms.
 
-## 🔧 Skills
-- HTML, CSS, JavaScript  
-- React.js, Node.js, Express.js  
-- MongoDB, REST APIs  
-- Git, GitHub, VS Code
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/farzan-ahmad](https://www.linkedin.com/in/farzan-ahmad) - **Location:** Lucknow, India
 
-
-## 📂 Projects
-- Voice-Based To-Do List  
-- One Page Resume Builder  
-- Digital Clock with Voice Commands  
-- E-commerce Store (MERN)  
-- AI Phone Assistant (In Progress)
-
-
-## 📫 Let's Connect
-🔗 Portfolio: https://farzanahmad.dev
-📧 Email: farzan.mrelvn@gmail.com
-💼 LinkedIn: linkedin.com/in/farzan-mrelvn
-🧠 Currently Building: Fullstack Projects + Learning DSA
-
-
-## "Coding is not just a skill, it's a weapon. I’m sharpening mine daily." — mrelvn
+---
+*"Quality is not an act, it is a habit."*
