@@ -10,12 +10,12 @@ I am a final-year B.Tech Computer Science student with a strong focus on Softwar
 - **API Testing:** Postman (Collections, Environment Variables, Validations).
 - **Web Technologies:** HTML, CSS, JavaScript (Basics).
 - **Upcoming Skills:** Playwright with TypeScript (Automation).
-- **Tools:** Git, GitHub, Jira/Trello.
+- **Tools:** Git, GitHub, Jira.
 
 ### 📁 Featured Projects
 #### [Shady Meadows B&B - Full Stack QA Project](https://github.com/mrelvn/Shady-Meadows-QA-Project)
 * **Context:** End-to-end testing of a boutique hotel web application.
-* **Deliverables:** Created FRS, Test Plan, 60+ Manual Test Cases, and API Test Collections.
+* **Deliverables:** Created FRS, Test Plan, 80+ Manual Test Cases, and API Test Collections.
 * **Impact:** Identified critical bugs in the booking logic and validated RESTful endpoints.
 
 ### 📈 Current Learning Path
@@ -23,7 +23,7 @@ I am a final-year B.Tech Computer Science student with a strong focus on Softwar
 - Building a portfolio of automated regression suites for e-commerce platforms.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/farzan-ahmad](https://www.linkedin.com/in/farzan-ahmad) - **Location:** Lucknow, India
+- **LinkedIn:** [linkedin.com/in/farzan-ahmad](https://www.linkedin.com/in/farzan-mrelvn) - **Location:** Lucknow, India
 
 ---
 *"Quality is not an act, it is a habit."*
